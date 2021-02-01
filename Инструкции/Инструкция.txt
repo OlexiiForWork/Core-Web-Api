@@ -1,0 +1,12 @@
+1)Развернуть БД файл CoreWebApp/Data.TestDBCirilic.mdf
+настроить строку подключения в файле appsettings.json => DefaultConnection
+
+2)примеры запросов
+https://localhost:44362/Clients
+https://localhost:44362/clients/1991-10-04
+
+https://localhost:44362/Categories
+https://localhost:44362/Categories/2
+
+https://localhost:44362/LatestBuyers
+https://localhost:44362/LatestBuyers/3
